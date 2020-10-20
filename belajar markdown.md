@@ -6,4 +6,4 @@
 ~~strikeline~~
 [link ke petanikode](https://www.petanikode.com/)
 [link ke petanikode](https://www.petanikode.com/ "Pergi ke petanikode.com")
-![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+![Gambar teks editor VS Code](https://github.com/jauhmad/bigdata/blob/main/le%20min%20ho.jpg)
